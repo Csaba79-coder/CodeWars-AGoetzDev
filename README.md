@@ -1,2 +1,3 @@
 # CodeWars
-my solutions to codewars problems
+
+AGoetzDev's solutions to codewars problems
